@@ -16,5 +16,8 @@ html, body {
 }
 
 html {
-    
+    background-image: url("./assets/background.png");
+    background-size: cover;
+    overflow-y: auto;
+
 }
