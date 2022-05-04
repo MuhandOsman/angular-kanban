@@ -1,0 +1,20 @@
+// for globale styles and changing bulma variables
+// 2 google fonts Lato & Nunito
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Lato:ital,wght@0,400;0,900;1,700&family=Nunito:wght@400;700&display=swap');
+
+$family-sans-serif: "Nunito", sans-serif;
+
+// update some of bulma's vars here
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+// Global styles
+
+html, body {
+    height:100%;
+}
+
+html {
+    
+}
